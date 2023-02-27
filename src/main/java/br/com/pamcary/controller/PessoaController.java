@@ -19,7 +19,7 @@ import br.com.pamcary.model.Pessoa;
 import br.com.pamcary.service.PessoaService;
 
 @RestController
-@RequestMapping("api/v1/avaliacao-pacary")
+@RequestMapping("api/v1/avaliacao-pamcary")
 public class PessoaController {
 	
 	@Autowired
